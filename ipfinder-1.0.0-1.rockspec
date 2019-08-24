@@ -1,7 +1,7 @@
 package = "ipfinder"
 version = "1.0.0-1"
 source = {
-   url = "git://github.com/ipfinder-io/ipfinder-lua.git"
+   url = "git://github.com/ipfinder-io/ip-finder-lua.git"
 }
 description = {
    summary = "IPFinder Lua Package",
